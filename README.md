@@ -1,1 +1,5 @@
-I made this project on the issue of Pollution! The pollution is becoming the big problem of Pakistan as well as Whole world. The important measures should be taken to solve it. It is and will kill alot of people in the world. Alot of deseases are got spread just because of pollution. There should be several organisations that work to control the pollution issues. Local people should also take initiatives and control measures to finish the pollution results. Because of pollution many viruses are spreading due to which many people are loosing their lives.
+I made this website on Visual Studio Code. I used style.css to modify the texture and the colors of the pages of website.
+Selecting the different colors of each page of website,I made it unique!
+To make the text italic,I used <i> for it.
+To highlight the text,I used <mark> for it.
+To make the text strong I used <strong>.
